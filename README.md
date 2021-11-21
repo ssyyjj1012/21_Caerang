@@ -31,11 +31,12 @@ ____________________
 _______________________
 ## 코드
 [링크](https://github.com/ssyyjj1012/code/blob/main/code/check_code.md "코드 링크")
+
 ![image](https://user-images.githubusercontent.com/52689953/142764573-33a35d68-5d6d-47d4-8e25-2b3b4936779c.png)
 
 본래 콩팥 위치 / 본래 종양 위치 / 콩팥 예측 / 종양 예측 / 콩팥 밑 종양 위치 정답
 
-#### GAN으로 가짜 이미지 생성 후 모델 학습 결과 
+#### *** GAN으로 가짜 이미지 생성 후 모델 학습 결과 
 
 ![image](https://user-images.githubusercontent.com/52689953/142764649-94091623-2acf-476d-b85c-e5087da1ef5d.png)
 
