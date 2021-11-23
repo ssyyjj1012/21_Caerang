@@ -17,6 +17,20 @@ _________________________
 
 이에 Generative adversarial networks(GAN) 기반 데이터 증강 기법을 통해 가상의 데이터를 생성하여 궁극적으로 해결하고자 하는 문제의 기계학습 성능 향상이 하려 합니다.
 
+____________________________
+
+## DATASET
+
+캐글 대회에서 제공한 데이터
+
+[**MOAI 2021 Body Morphometry AI Segmentation Online Challenge**](https://www.kaggle.com/c/body-morphometry-kidney-and-tumor/data)
+
+________________________________
+## Model 
+
+1.FPN (Pretrained)
+2. U-net (our Model)
+
 ____________________
 
 ## 기대효과 및 활용 방안
