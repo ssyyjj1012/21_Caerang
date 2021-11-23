@@ -30,7 +30,7 @@ ________________________________
 
 1.FPN (Pretrained)
 
-2. U-net (our Model)
+2.U-net (our Model)
 
 
 ** Augumentation의 유무에 대해서도 성능 분석
