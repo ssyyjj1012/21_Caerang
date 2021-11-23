@@ -44,7 +44,7 @@ ____________________
 
 _______________________
 ## 코드
-[링크](https://github.com/ssyyjj1012/code/blob/main/code/check_code.md "코드 링크")
+[링크](https://github.com/ssyyjj1012/21_Caerang/tree/main/model "코드 링크")
 
 ![image](https://user-images.githubusercontent.com/52689953/142764573-33a35d68-5d6d-47d4-8e25-2b3b4936779c.png)
 
