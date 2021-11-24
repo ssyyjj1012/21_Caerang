@@ -46,6 +46,19 @@ ______________________________
 - Pix2Pix
 
      make new data to improve CNN acc.
+     
+ ![image](https://user-images.githubusercontent.com/52689953/143183478-dd315705-b8ee-4279-a13d-05401d7db547.png)
+
+^ 실제데이터
+
+![image](https://user-images.githubusercontent.com/52689953/143183525-63094f26-bba2-4b24-a341-d38df96e7115.png)
+
+![image](https://user-images.githubusercontent.com/52689953/143183542-e785ab54-6f2d-458d-8112-18764645581a.png)
+
+
+^ GAN으로 만든 인공데이터
+
+
 ____________________
 
 ## 기대효과 및 활용 방안
@@ -70,7 +83,7 @@ _______________________
 
 ![image](https://user-images.githubusercontent.com/52689953/142764649-94091623-2acf-476d-b85c-e5087da1ef5d.png)
 
-좋은 성능으로 예측했음을 알 수 있었습니다.
+
 ___________________
 
 ## 향후 개선점
