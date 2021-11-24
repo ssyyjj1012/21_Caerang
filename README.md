@@ -44,7 +44,8 @@ ______________________________
 ## GAN
 
 - Pix2Pix
---make new data to improve CNN acc.
+
+     make new data to improve CNN acc.
 ____________________
 
 ## 기대효과 및 활용 방안
