@@ -47,17 +47,15 @@ ______________________________
 
      make new data to improve CNN acc.
      
- ![image](https://user-images.githubusercontent.com/52689953/143183478-dd315705-b8ee-4279-a13d-05401d7db547.png)
+<img src = "https://user-images.githubusercontent.com/52689953/143183478-dd315705-b8ee-4279-a13d-05401d7db547.png" width="400" height="400"/>
 
 ^ 실제데이터
 
-![image](https://user-images.githubusercontent.com/52689953/143183525-63094f26-bba2-4b24-a341-d38df96e7115.png)
+<img src = "https://user-images.githubusercontent.com/52689953/143183525-63094f26-bba2-4b24-a341-d38df96e7115.png" width="400" height="400"/>
+<img src = "https://user-images.githubusercontent.com/52689953/143183542-e785ab54-6f2d-458d-8112-18764645581a.png" width="400" height="400"/>
 
-![image](https://user-images.githubusercontent.com/52689953/143183542-e785ab54-6f2d-458d-8112-18764645581a.png)
 
-
-^ GAN으로 만든 인공데이터
-
+^ GAN의 데이터 증강기법을 통해 생성한 인공데이터
 
 ____________________
 
